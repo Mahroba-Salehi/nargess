@@ -1,0 +1,1 @@
+print("ridm to iran")
